@@ -43,6 +43,18 @@ td{
     height: auto;
     max-width:100%;
 } 
-/* thead{
-    color:black;
-} */
+.faculty{
+    display: flex;
+}
+.fact_1{
+    float: left;
+    margin-left: 2%;
+}
+.fact_2{
+    float: left;
+    margin-left: 7%;
+}
+.fact_3{
+    float: right ;
+    margin-left: 7%;
+}
